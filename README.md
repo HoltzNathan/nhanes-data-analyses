@@ -28,7 +28,8 @@ This project demonstrates an end-to-end data analysis workflow, including data a
 
 ## Key Findings
 
-* Identified significant relationships between inflammatory markers (CRP) and behavioral/clinical variables
+## Key Findings
+* Identified significant relationships between CRP and smoking, triglycerides, and depression
 * Demonstrated the importance of data transformation and interaction effects in improving model performance
 
 ## Repository Structure
