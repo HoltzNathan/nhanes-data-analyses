@@ -31,8 +31,14 @@ This project analyzes publicly available NHANES data to identify key drivers of 
 
 ## Repository Structure
 
-* `analysis.R` — main analysis script
-* `figures/` — visualizations generated during analysis
+* nhanes_regression_analysis.R
+* outputs/
+
+## How to Run
+* 1. Open `nhanes_regression_analysis.R` in R or RStudio.
+* 2. Run the script from the project folder.
+* 3. Required NHANES data files will download into `/data`.
+* 4. Figures and tables will save into `/outputs`.
 
 ## Author
 
