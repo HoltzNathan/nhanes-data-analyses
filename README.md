@@ -4,7 +4,7 @@
 
 This project analyzes publicly available NHANES data to identify key drivers of inflammation, measured by C-reactive protein (CRP). The goal was to explore relationships between behavioral, physiological, and clinical variables using statistical modeling.
 
-This project demonstrates an end-to-end data analysis workflow, including data acquisition, cleaning, statistical modeling, and interpretation.
+These analyses demonstrate an end-to-end data analysis workflow, including data acquisition, cleaning, statistical modeling, and interpretation.
 
 ## Dataset
 
