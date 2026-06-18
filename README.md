@@ -31,8 +31,11 @@ This project analyzes publicly available NHANES data to identify key drivers of 
 
 ## Repository Structure
 
-* nhanes_regression_analysis.R
-* outputs/
+* nhanes-data-analyses/
+* ├── nhanes_regression_analysis.R
+* ├── README.md
+* ├── data/
+* └── outputs/
 
 ## How to Run
 * 1. Open `nhanes_regression_analysis.R` in R or RStudio.
